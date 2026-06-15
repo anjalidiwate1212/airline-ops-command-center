@@ -1,0 +1,4 @@
+{
+    "airports": ["JFK", "LAX", "ORD", "ATL", "DFW"],
+    "schedule_types": ["dep", "arr"]
+}
